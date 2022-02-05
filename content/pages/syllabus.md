@@ -82,12 +82,57 @@ Course Grade
 
 The final grade in the course is based upon our best assessment of your understanding of the material during the semester. Roughly, the weights used in grade assignment will be:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Exam #1 | 25% |
-| Exam #2 | 25% |
-| Final Exam | 40% |
-| Homework | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam #1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam #2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 However, other factors such as interaction with the staff and participation in lecture and recitation can make a significant difference in the final grade. In general, the process of assigning a final grade involves considerable discussion among the staff; very often a careful review of the final exam is involved to examine the kinds of mistakes that were made. Although the focus of the course is obviously learning, not grades, we know the final grade is important to you, and we want you to know that we take the process seriously.
 
